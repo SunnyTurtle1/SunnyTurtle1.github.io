@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Sunny Oh"
   avatar           : "/assets/st.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my blog. I love ur comments."
+  bio              : "Welcome to my blog."
   location         : "Republic of Korea"
   email            : # "osso.sunnyturtle@gmail.com"
   links:
