@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Sunny's Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Noob for Game Developing" # site tagline that appears below site title in masthead
 name                     : "Sunny Oh"
 description              : "게임 개발자 꿈나무"
 url                      : "https://SunnyTurtle1.github.io"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Sunny Oh"
+  avatar           : "/assets/st.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a noob for game developing. "
+  location         : "Republic of Korea"
+  email            : "osso.sunnyturtle@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "osso.sunnyturtle@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
