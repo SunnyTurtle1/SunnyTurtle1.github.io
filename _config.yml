@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Sunny's Blog"
 title_separator          : "-"
-subtitle                 : "Noob for Game Developing" # site tagline that appears below site title in masthead
+subtitle                 : "게임 개발자 꿈나무" # site tagline that appears below site title in masthead
 name                     : "Sunny Oh"
 description              : "게임 개발자 꿈나무"
 url                      : "https://SunnyTurtle1.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/st.jpg"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/st.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Sunny Oh"
-  avatar           : "/assets/st.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/st.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a noob for game developing. "
   location         : "Republic of Korea"
   email            : "osso.sunnyturtle@gmail.com"
