@@ -17,6 +17,6 @@ docs:
   - title: Project
     children:
       - title: "Single"
-        url: /docs/single-project
+        url: /single-project/
       - title: "Team"
-        url: /docs/team-project
+        url: /team-project/
