@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Sunny's Blog"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "게임 개발자 꿈나무" # site tagline that appears below site title in masthead
 name                     : "Sunny Oh"
-description              : "게임 개발자 꿈나무"
-url                      : "https://SunnyTurtle1.github.io"
+description              : "써니의 성장 블로그 입니다"
+url                      : "https://SunnyTurtle1.github.io "
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
