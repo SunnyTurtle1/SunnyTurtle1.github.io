@@ -1,11 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: http://sunnyturtle1.github.io/  
-  - title: "Category"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/   
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
