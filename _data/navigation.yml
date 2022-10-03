@@ -1,9 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: http://sunnyturtle1.github.io/
-  - title: "About"
-    url: /about/
+    url: http://sunnyturtle1.github.io/  
   - title: "Category"
     url: /categories/
   - title: "Tags"
