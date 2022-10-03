@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/st.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome to my blog."
   location         : "Republic of Korea"
-  email            : # "osso.sunnyturtle@gmail.com"
+  email            : "osso.sunnyturtle@gmail.com"
   links:
     - label: "osso.sunnyturtle@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "osso.sunnyturtle@gmail.com"
+      #url: "osso.sunnyturtle@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
