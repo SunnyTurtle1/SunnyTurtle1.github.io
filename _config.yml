@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/SunnyTurtle1/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -290,3 +290,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+defaults:
+  #_docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+      nav: "docs"

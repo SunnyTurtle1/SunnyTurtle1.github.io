@@ -12,3 +12,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: Project
+    children:
+      - title: "Single"
+      url: /docs/single-project
+      - title: "Team"
+      url: /docs/team-project
