@@ -13,10 +13,11 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+#docs links
 docs:
   - title: Project
     children:
       - title: "Single"
-        url: single-project/
+        url: /categories/single-project/
       - title: "Team"
-        url: team-project/
+        url: categories/team-project
