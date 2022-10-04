@@ -2,7 +2,6 @@
 layout: archive
 permalink: team-project
 title: "team-Project"
-
 author_profile: true
 sidebar:
   nav: "docs"

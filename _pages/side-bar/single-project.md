@@ -2,7 +2,6 @@
 layout: archive
 permalink: single-project
 title: "Single-Project"
-
 author_profile: true
 sidebar:
   nav: "docs"
