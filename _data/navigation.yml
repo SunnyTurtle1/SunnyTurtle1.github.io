@@ -18,6 +18,6 @@ docs:
   - title: Project
     children:
       - title: "Single"
-        url: /categories/single-project/
+        url: categories/singlep
       - title: "Team"
-        url: categories/team-project
+        url: categories/teamp

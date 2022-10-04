@@ -1,11 +1,11 @@
 ---
 title: "Single"
 layout: archive
-permalink: categories/single-project
+permalink: categories/singlep
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.single-project %}
+{% assign posts = site.categories.singlep %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
