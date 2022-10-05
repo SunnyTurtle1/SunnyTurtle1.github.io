@@ -1,7 +1,7 @@
 ---
 title: "Single"
 layout: archive
-permalink: /categories/singlep/
+permalink: /categories/single_project/
 author_profile: true
 sidebar_main: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Team"
 layout: archive
-permalink: /categories/teamp/
+permalink: /categories/team_project/
 author_profile: true
 sidebar_main: true
 ---
