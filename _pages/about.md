@@ -6,7 +6,9 @@ author_profile: true
 sidebar_main: true
 ---
 
-## TECHNICAL SKILLS :
+### TECHNICAL SKILLS :
+
+--------------------------------------------------------------------------------------------------
 
 * <b>Languages:</b> <span style="color:#80CFF2">C</span>, <span style="color:#BCF280">C#</span>, <span style="color:#80CFF2">maxscript</span>, <span style="color:#80CFF2">unity shader</span>, Python(Learning)
 
