@@ -6,6 +6,16 @@ author_profile: true
 sidebar_main: true
 ---
 
+
+
+Technical Artist를 희망하는 게임 개발자 꿈나무입니다.
+
+그래픽 최적화와 업무 효율성에 관심이 많습니다.
+
+
+
+
+
 ### TECHNICAL SKILLS :
 
 --------------------------------------------------------------------------------------------------
@@ -25,3 +35,11 @@ sidebar_main: true
 
 
 <span style="color:#F28080"><b>Strong</b></span> / <span style="color:#BCF280"><b>Knowledgeable</b></span> / <span style="color:#80CFF2"><b>Basic</b></span> 
+
+
+
+------------------------------------
+
+충.조.평.판 (충고, 조언, 평가, 비판) 감사히 듣겠습니다.
+
+댓글 많이 달아주세요 :smiley:
