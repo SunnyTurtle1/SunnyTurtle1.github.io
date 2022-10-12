@@ -8,17 +8,17 @@ sidebar_main: true
 
 ## TECHNICAL SKILLS :
 
-*Languages: <span style="color:#80CFF2">C</span>, <span style="color:#BCF280">C#</span>, <span style="color:#80CFF2">maxscript</span>, <span style="color:#80CFF2">unity shader</span>, Python(Learning)
+* <b>Languages:</b> <span style="color:#80CFF2">C</span>, <span style="color:#BCF280">C#</span>, <span style="color:#80CFF2">maxscript</span>, <span style="color:#80CFF2">unity shader</span>, Python(Learning)
 
-*Game Engine: <span style="color:#BCF280">Unity</span>
+* <b>Game Engine:</b> <span style="color:#BCF280">Unity</span>
 
-*DCC tool: <span style="color:#F28080">Photoshop</span>, <span style="color:#BCF280">Illustrator</span>, <span style="color:#BCF280">Aseprite</span>, <span style="color:#BCF280">Blender</span>, <span style="color:#BCF280">3DMax</span>, <span style="color:#80CFF2">Zbrush</span>, <span style="color:#80CFF2">Substance painter</span>
+* <b>DCC tool:</b> <span style="color:#F28080">Photoshop</span>, <span style="color:#BCF280">Illustrator</span>, <span style="color:#BCF280">Aseprite</span>, <span style="color:#BCF280">Blender</span>, <span style="color:#BCF280">3DMax</span>, <span style="color:#80CFF2">Zbrush</span>, <span style="color:#80CFF2">Substance painter</span>
 
-*Graphics: DirectX 12(Learning)
+* <b>Graphics:</b> DirectX 12(Learning)
 
-*Internet Technology Experience: <span style="color:#80CFF2">HTML</span>
+* <b>Internet Technology Experience:</b> <span style="color:#80CFF2">HTML</span>
 
-*Databases: <span style="color:#80CFF2">MySQL</span>
+* <b>Databases:</b> <span style="color:#80CFF2">MySQL</span>
 
 
 
