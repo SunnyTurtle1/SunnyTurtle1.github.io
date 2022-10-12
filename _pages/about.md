@@ -22,4 +22,4 @@ sidebar_main: true
 
 
 
--Strong: :three: / Knowledgeable: :two: / Basic: :one:
+-Strong: <span style="color:**#CFE36B**">:three:</span> / Knowledgeable: :two: / Basic: :one:
