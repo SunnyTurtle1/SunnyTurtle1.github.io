@@ -8,7 +8,7 @@ sidebar_main: true
 
 ## TECHNICAL SKILLS :
 
-*Languages: C, C#:two:, maxscript:two:, unity shader:one:
+*Languages: C, C#:two:, maxscript:two:, unity shader:one:, Python(Learning)
 
 *Game Engine: Unity:two:
 
@@ -22,4 +22,4 @@ sidebar_main: true
 
 
 
--Strong: <span style="color:**#CFE36B**">:three:</span> / Knowledgeable: :two: / Basic: :one:
+<span style="color:#F28080"><b>Strong</b></span> / <span style="color:#BCF280"><b>Knowledgeable</b></span> / <span style="color:#80CFF2"><b>Basic</b></span> 
