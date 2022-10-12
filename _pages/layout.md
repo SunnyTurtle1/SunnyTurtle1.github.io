@@ -3,19 +3,20 @@ layout: single
 categories: team_project
 tags: [test,team_project]
 title:  "그래픽) 곰사원은 휴가가 가고 싶어!"
+toc: true
+toc_sticky: true
+toc_label: "Contents"
 ---
 
 #  (2021 충북 게임잼)
+
+
 
 ## <span style="color:#9AE1F5">1. 작업 의도</span>
 
 :blush: 
 
  
-
-
-
-
 
 ## <span style="color:#9AE1F5">2. 작업 과정</span>
 
@@ -45,4 +46,28 @@ title:  "그래픽) 곰사원은 휴가가 가고 싶어!"
 
 
 :thought_balloon:  
+
+
+
+:books: **[깃허브 주소](https://github.com/SunnyTurtle1/maxscript_calculator.git)**
+
+
+
+
+
+<문법>
+
+* 이미지 정렬
+
+\{:  .align-center}
+
+\{:  .align-left}
+
+\{:  .align-right}
+
+* 이미지 크기
+
+\{: width="50%", height="50%"}
+
+
 
