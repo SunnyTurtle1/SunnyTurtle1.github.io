@@ -20,7 +20,7 @@ Technical Artist를 희망하는 게임 개발자 꿈나무입니다.
 
 --------------------------------------------------------------------------------------------------
 
-<div style="text-align: right"><span style="color:#F28080"><b>Strong</b></span> / <span style="color:#BCF280"><b>Knowledgeable</b></span> / <span style="color:#80CFF2"><b>Basic</b></span> </div>
+<div style="text-align: left"><span style="color:#F28080"><b>Strong</b></span> / <span style="color:#BCF280"><b>Knowledgeable</b></span> / <span style="color:#80CFF2"><b>Basic</b></span> </div>
 
 |  Category   | List                                                         |
 | :---------: | :----------------------------------------------------------- |
