@@ -20,21 +20,18 @@ Technical Artist를 희망하는 게임 개발자 꿈나무입니다.
 
 --------------------------------------------------------------------------------------------------
 
-* <b>Languages:</b> <span style="color:#80CFF2">C</span>, <span style="color:#BCF280">C#</span>, <span style="color:#80CFF2">maxscript</span>, <span style="color:#80CFF2">unity shader</span>, Python(Learning)
+<div style="text-align: right"><span style="color:#F28080"><b>Strong</b></span> / <span style="color:#BCF280"><b>Knowledgeable</b></span> / <span style="color:#80CFF2"><b>Basic</b></span> </div>
 
-* <b>Game Engine:</b> <span style="color:#BCF280">Unity</span>
-
-* <b>DCC tool:</b> <span style="color:#F28080">Photoshop</span>, <span style="color:#BCF280">Illustrator</span>, <span style="color:#BCF280">Aseprite</span>, <span style="color:#BCF280">Blender</span>, <span style="color:#BCF280">3DMax</span>, <span style="color:#80CFF2">Zbrush</span>, <span style="color:#80CFF2">Substance painter</span>
-
-* <b>Graphics:</b> DirectX 12(Learning)
-
-* <b>Internet Technology Experience:</b> <span style="color:#80CFF2">HTML</span>
-
-* <b>Databases:</b> <span style="color:#80CFF2">MySQL</span>
-
+|  Category   | List                                                         |
+| :---------: | :----------------------------------------------------------- |
+|  Languages  | <span style="color:#80CFF2">C</span>, <span style="color:#BCF280">C#</span>, <span style="color:#80CFF2">MAXscript</span>, <span style="color:#80CFF2">Unity Shader</span>, Python(Learning) |
+| Game Engine | <span style="color:#BCF280">Unity</span>                     |
+|  DCC tool   | <span style="color:#F28080">Photoshop</span>, <span style="color:#BCF280">Illustrator</span>, <span style="color:#BCF280">Aseprite</span>, <span style="color:#BCF280">Blender</span>, <span style="color:#BCF280">3DMax</span>, <span style="color:#80CFF2">ZBrush</span>, <span style="color:#80CFF2">Substance painter</span> |
+|  Graphics   | DirectX 12(Learning)                                         |
+|     Web     | <span style="color:#80CFF2">HTML</span>                      |
+|  Databases  | <span style="color:#80CFF2">MySQL</span>                     |
 
 
-<span style="color:#F28080"><b>Strong</b></span> / <span style="color:#BCF280"><b>Knowledgeable</b></span> / <span style="color:#80CFF2"><b>Basic</b></span> 
 
 
 
