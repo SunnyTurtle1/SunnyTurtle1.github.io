@@ -29,5 +29,115 @@
                 {% endfor %}
             </ul>        
       </li>
+      <li>        
+        <span class="nav__sub-title"><b>PROGRAMMING LANGUAGE</b></span>
+            <ul>                
+                {% for category in site.categories %}
+                    {% if category[0] == "C/C++/C#" %}
+                        <li><a href="/categories/C_lang" class="">📂C/C++/C# ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Maxscript" %}
+                        <li><a href="/categories/Maxscript/" class="">📂Maxscript ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>  
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Unity_Shader" %}
+                        <li><a href="/categories/Unity_Shader/" class="">📂Unity Shader ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "HLSL" %}
+                        <li><a href="/categories/HLSL/" class="">📂HLSL ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Python" %}
+                        <li><a href="/categories/Python/" class="">📂Python ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>      
+      </li>
+      <li>        
+        <span class="nav__sub-title"><b>COMPUTER SCIENCE</b></span>
+            <ul>                
+                {% for category in site.categories %}
+                    {% if category[0] == "Computer_graphics" %}
+                        <li><a href="/categories/Computer_graphics" class="">📂Computer Graphics ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Data_Structure" %}
+                        <li><a href="/categories/Data_Structure/" class="">📂Data Structure ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>  
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Algorithm" %}
+                        <li><a href="/categories/Algorithm/" class="">📂Algorithm ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Operating_System" %}
+                        <li><a href="/categories/Operating_System/" class="">📂Operating System ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "TCP_IP" %}
+                        <li><a href="/categories/TCP_IP/" class="">📂TCP/IP ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>      
+      </li>
+      <li>        
+        <span class="nav__sub-title"><b>GAME ENGINE</b></span>
+            <ul>                
+                {% for category in site.categories %}
+                    {% if category[0] == "Unity" %}
+                        <li><a href="/categories/Unity" class="">📂Unity ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Unreal" %}
+                        <li><a href="/categories/Unreal/" class="">📂Unreal ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>              
+      </li>
+      <li>        
+        <span class="nav__sub-title"><b>ETC</b></span>
+            <ul>                
+                {% for category in site.categories %}
+                    {% if category[0] == "Server" %}
+                        <li><a href="/categories/Server" class="">📂Server ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MySQL" %}
+                        <li><a href="/categories/MySQL/" class="">📂MySQL ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>              
+      </li>
   </ul>
 </nav>
