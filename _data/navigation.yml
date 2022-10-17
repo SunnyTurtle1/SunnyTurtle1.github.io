@@ -35,9 +35,9 @@ docs:
   #       url: /categories/HLSL/
   #     - title: "Python"
   #       url: /categories/Python/
-  - title: COMPUTER_SCIENCE
+  - title: COMPUTER SCIENCE
     children:
-      - title: "Computer_Graphics"
+      - title: "Computer Graphics"
         url: /categories/Computer_graphics/
       # - title: "Data Structure"
       #   url: /categories/Data_Structure/
