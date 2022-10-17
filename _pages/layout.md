@@ -1,7 +1,7 @@
 ---
 layout: single
 categories: team_project
-tags: [test,team_project]
+tags: [game,team_project]
 title:  "그래픽) 곰사원은 휴가가 가고 싶어!"
 toc: true
 toc_sticky: true

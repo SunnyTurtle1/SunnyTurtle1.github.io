@@ -1,5 +1,5 @@
 ---
-title: "Computer Graphics"
+title: "Computer_Graphics"
 layout: archive
 permalink: /categories/Computer_Graphics/
 author_profile: true
