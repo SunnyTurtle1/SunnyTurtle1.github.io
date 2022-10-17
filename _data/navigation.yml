@@ -17,7 +17,13 @@ main:
 
 #docs links
 docs:
-  - title: Project
+- title: Project
+    children:
+      - title: "Single"
+        url: /categories/single_project/
+      - title: "Team"
+        url: /categories/team_project/
+  - title: PROGRAMMING LANGUAGE
     children:
       - title: "C/C++/C#"
         url: /categories/C_lang/

@@ -31,7 +31,7 @@
       </li>
       <li>        
         <span class="nav__sub-title"><b>PROGRAMMING LANGUAGE</b></span>
-            <ul>                
+            <!-- <ul>                
                 {% for category in site.categories %}
                     {% if category[0] == "C/C++/C#" %}
                         <li><a href="/categories/C_lang" class="">📂C/C++/C# ({{category[1].size}})</a></li>
@@ -65,7 +65,7 @@
                         <li><a href="/categories/Python/" class="">📂Python ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
-            </ul>      
+            </ul>       -->
       </li>
       <li>        
         <span class="nav__sub-title"><b>COMPUTER SCIENCE</b></span>
@@ -76,7 +76,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-            <ul>
+            <!-- <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Data_Structure" %}
                         <li><a href="/categories/Data_Structure/" class="">📂Data Structure ({{category[1].size}})</a></li>
@@ -103,11 +103,11 @@
                         <li><a href="/categories/TCP_IP/" class="">📂TCP/IP ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
-            </ul>      
+            </ul>       -->
       </li>
       <li>        
         <span class="nav__sub-title"><b>GAME ENGINE</b></span>
-            <ul>                
+            <!-- <ul>                
                 {% for category in site.categories %}
                     {% if category[0] == "Unity" %}
                         <li><a href="/categories/Unity" class="">📂Unity ({{category[1].size}})</a></li>
@@ -120,11 +120,11 @@
                         <li><a href="/categories/Unreal/" class="">📂Unreal ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
-            </ul>              
+            </ul>               -->
       </li>
       <li>        
         <span class="nav__sub-title"><b>ETC</b></span>
-            <ul>                
+            <!-- <ul>                
                 {% for category in site.categories %}
                     {% if category[0] == "Server" %}
                         <li><a href="/categories/Server" class="">📂Server ({{category[1].size}})</a></li>
@@ -137,7 +137,7 @@
                         <li><a href="/categories/MySQL/" class="">📂MySQL ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
-            </ul>              
+            </ul>               -->
       </li>
   </ul>
 </nav>
