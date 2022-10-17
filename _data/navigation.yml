@@ -17,45 +17,45 @@ main:
 
 #docs links
 docs:
-- title: Project
+  - title: Project
     children:
       - title: "Single"
         url: /categories/single_project/
       - title: "Team"
         url: /categories/team_project/
-  - title: PROGRAMMING LANGUAGE
-    children:
-      - title: "C/C++/C#"
-        url: /categories/C_lang/
-      - title: "Maxscript"
-        url: /categories/Maxscript/
-      - title: "Unity Shader"
-        url: /categories/Unity_Shader/
-      - title: "HLSL"
-        url: /categories/HLSL/
-      - title: "Python"
-        url: /categories/Python/
- - title: COMPUTER SCIENCE
+  # - title: PROGRAMMING LANGUAGE
+  #   children:
+  #     - title: "C/C++/C#"
+  #       url: /categories/C_lang/
+  #     - title: "Maxscript"
+  #       url: /categories/Maxscript/
+  #     - title: "Unity Shader"
+  #       url: /categories/Unity_Shader/
+  #     - title: "HLSL"
+  #       url: /categories/HLSL/
+  #     - title: "Python"
+  #       url: /categories/Python/
+  - title: COMPUTER SCIENCE
     children:
       - title: "Computer Graphics"
         url: /categories/Computer_graphics/
-      - title: "Data Structure"
-        url: /categories/Data_Structure/
-      - title: "Algorithm"
-        url: /categories/Algorithm/
-      - title: "Operating System"
-        url: /categories/Operating_System/
-      - title: "TCP/IP"
-        url: /categories/TCP_IP/
- - title: GAME ENGINE
-    children:
-      - title: "Unity"
-        url: /categories/sUnity/
-      - title: "Unreal"
-        url: /categories/Unreal/
- - title: ETC
-    children:
-      - title: "Server"
-        url: /categories/Server/
-      - title: "MySQL"
-        url: /categories/MySQL/  
+      # - title: "Data Structure"
+      #   url: /categories/Data_Structure/
+      # - title: "Algorithm"
+      #   url: /categories/Algorithm/
+      # - title: "Operating System"
+      #   url: /categories/Operating_System/
+      # - title: "TCP/IP"
+      #   url: /categories/TCP_IP/
+  # - title: GAME ENGINE
+  #   children:
+  #     - title: "Unity"
+  #       url: /categories/sUnity/
+  #     - title: "Unreal"
+  #       url: /categories/Unreal/
+  # - title: ETC
+  #   children:
+  #     - title: "Server"
+  #       url: /categories/Server/
+  #     - title: "MySQL"
+  #       url: /categories/MySQL/  
