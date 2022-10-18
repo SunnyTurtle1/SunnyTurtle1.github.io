@@ -6,7 +6,7 @@ author_profile: true
 sidebar_main: true
 ---
 
-
+![키1](/images/kinetic2.gif){: width="100%", height="100%"}
 
 Technical Artist를 희망하는 게임 개발자 꿈나무입니다.
 
