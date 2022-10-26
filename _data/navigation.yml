@@ -39,6 +39,8 @@ docs:
     children:
       - title: "Computer Graphics"
         url: /categories/Computer_graphics/
+      - title: "Optimization"
+        url: /categories/Optimization/  
       # - title: "Data Structure"
       #   url: /categories/Data_Structure/
       # - title: "Algorithm"
